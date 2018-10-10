@@ -1,4 +1,6 @@
 {
+    "package": "themizzi/injection-bundle",
+    "license": "MIT",
     "require": {
         "doctrine/annotations": "^1.6",
         "symfony/dependency-injection": "^4.1",
