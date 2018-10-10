@@ -1,5 +1,5 @@
 {
-    "package": "themizzi/injection-bundle",
+    "name": "themizzi/injection-bundle",
     "license": "MIT",
     "require": {
         "doctrine/annotations": "^1.6",
